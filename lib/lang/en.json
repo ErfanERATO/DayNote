@@ -1,0 +1,10 @@
+{
+    "save": "Save",
+    "Title" : "Title",
+    "Description" : "Description",
+    "Notes" : "Notes",
+    "NoNotes" : "No notes",
+    "TypeSomething" : "Type something...",
+    "DesError" : "The description cannot be empty",
+    "TitleError" : "The title cannot be empty"
+}
